@@ -10,7 +10,7 @@ exports[`<App /> should match snapshot 1`] = `
     React Wars
   </h1>
   <div
-    className="ui raised segment"
+    className="ui segment"
   >
     <div
       className="characterList"
