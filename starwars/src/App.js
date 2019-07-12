@@ -15,7 +15,7 @@ const App = () => {
     axios
     .get("https://swapi.co/api/people")
     .then(res => {
-      setStarwarsCharacter(res.data);
+      setStarwarsCharacter(res.data.results);
     })
     .catch(err => {
       console.log(err);
