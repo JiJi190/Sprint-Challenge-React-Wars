@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-test-renderer": "^16.8.6",
+    "semantic-ui-css": "^2.4.1"
+  }
+}
